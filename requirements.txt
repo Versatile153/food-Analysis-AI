@@ -4,4 +4,4 @@ pandas
 numpy
 requests
 python-multipart   # if using file uploads
-gunicorn
+
